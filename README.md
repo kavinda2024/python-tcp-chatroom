@@ -39,8 +39,8 @@ This project demonstrates a basic client–server architecture where multiple cl
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/kavinda2024/python-tcp-chatroom.git
+cd into the repository
 ```
 
 ### 2️⃣ Start the Server
@@ -95,6 +95,3 @@ User2: Hi!
 * Prevents server crashes via exception handling
 
 
-
-
-Just tell me!
